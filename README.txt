@@ -1,8 +1,7 @@
 # Saivalini Durvasula 
-Welcome to my personal portfolio! 
 
 # About me: 
-I'm a digital marketing and web analyst, turning digital user behavior into actionable insights 
+I'm a web and digital marketing analyst, driving actionable insights from digital user behavior 
 
 # Skills
 - Adobe Analytics 
@@ -13,6 +12,8 @@ I'm a digital marketing and web analyst, turning digital user behavior into acti
 - Tableau 
 - Power BI 
 
+# Contact
+- LinkedIn: https://www.linkedin.com/in/saivalini-durvasula/
 
 # Portfolio Website Credits:
 
