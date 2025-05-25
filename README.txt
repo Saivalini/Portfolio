@@ -1,4 +1,4 @@
-# Created a quick webiste to show GA4 & GTM tracking for a part-time work opportunity 
+# Created a quick website to show GA4 & GTM tracking for a part-time work opportunity 
 # Website Template Credits:
 
         Template: Prologue by HTML5 UP
